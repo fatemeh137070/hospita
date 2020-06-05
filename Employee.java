@@ -38,4 +38,3 @@ abstract public class Employee {
         this.Grade = grade;
     }
 
-}
